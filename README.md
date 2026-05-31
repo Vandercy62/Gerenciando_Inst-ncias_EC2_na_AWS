@@ -86,9 +86,8 @@ Durante a realização do desafio foram executadas as seguintes atividades:
 
 ### Arquitetura Desenvolvida
 
-> Inserir abaixo a imagem exportada do Draw.io.
+# Teste de Imagem
 
-```markdown
 ![Arquitetura AWS](images/arquitetura-aws.png)
 ```
 
