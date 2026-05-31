@@ -86,10 +86,9 @@ Durante a realização do desafio foram executadas as seguintes atividades:
 
 ### Arquitetura Desenvolvida
 
-# Teste de Imagem
+Abaixo está o diagrama de arquitetura desenvolvido na plataforma Draw.io, representando a integração entre os serviços Amazon S3, Amazon EC2, AWS Lambda e Amazon EBS.
 
 ![Arquitetura AWS](images/arquitetura-aws.png)
-```
 
 ---
 
@@ -104,8 +103,7 @@ Durante a realização do desafio foram executadas as seguintes atividades:
 ```
 
 ---
-
-## ☁️ Serviços AWS Representados
+## Serviços AWS Representados
 
 ### Amazon S3
 
